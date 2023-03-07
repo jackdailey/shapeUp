@@ -1,8 +1,7 @@
-# shapeup
-This is my shape up website code. 
+# shapeupnofloat
+The Shape Up website without any float properties
 
-Click here to visit the live site:
+Live site:
 
-https://mroberts70.github.io/shapeup/
-
+https://mroberts70.github.io/shapeupnofloat/
 
